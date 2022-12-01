@@ -1,4 +1,4 @@
-# Cron-metro-JavaScript
+# Cronómetro-JavaScript
 Cronómetro simple realizado con JavaScript. El código contiene comentarios con explicaciones ideales para los más novatos.
 Este es mi primer proyecto con este lenguaje.
 
